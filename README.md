@@ -4,6 +4,8 @@ A curated list of COVID-19 (2019-nCoV) data repositories across different source
 
 ***Caution:*** This is a work in progress, please contribute, especially if you are a subject expert in any of the areas for epidemiology, pathology, healthcare informatics, or health data science.
 
+Add new sources yourself with a **pull request**. 
+
 ## Table of Contents
 
 ### Data Repositories
@@ -25,6 +27,9 @@ A curated list of COVID-19 (2019-nCoV) data repositories across different source
 
 <a name="us-based-govt"></a>
 **US Based Government**
+
+- [Center for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) - Web page with links to various data reports; numbers are preliminary and have not been confirmed by state and territorial health departments.
+
 
 <a name="intl-based-govt"></a>
 **Internationally Based Government**
