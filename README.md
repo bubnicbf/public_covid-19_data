@@ -12,6 +12,8 @@ A curated list of COVID-19 (2019-nCoV) data repositories across different source
 - [Academic Research](#academic)
     - [US Based](#us-based)
     - [Internationally Based](#intl-based)
+- [News Organizations](#news)
+
 
 <!-- /MarkdownTOC -->
 
@@ -22,3 +24,12 @@ A curated list of COVID-19 (2019-nCoV) data repositories across different source
 **US Based**
 
 - [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) - Data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE).
+
+<a name="intl-based"></a>
+**Internationally Based**
+
+<a name="news"></a>
+## News Organizations
+- [New York Times](https://github.com/nytimes/covid-19-data) - An ongoing repository of data on coronavirus cases and deaths in the U.S.
+
+
