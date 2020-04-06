@@ -9,16 +9,28 @@ A curated list of COVID-19 (2019-nCoV) data repositories across different source
 ### Data Repositories
 <!-- MarkdownTOC depth=4 -->
 
-- [Academic Research](#academic)
-    - [US Based](#us-based-academia)
-    - [Internationally Based](#intl-based-academia)
 - [Government](#government)
     - [US Based](#us-based-govt)
     - [Internationally Based](#intl-basedgovt)
+- [Academic Research](#academic)
+    - [US Based](#us-based-academia)
+    - [Internationally Based](#intl-based-academia)
 - [News Organizations](#news)
 
 
 <!-- /MarkdownTOC -->
+
+<a name="government"></a>
+## Government Research
+
+<a name="us-based-govt"></a>
+**US Based Government**
+
+<a name="intl-based-govt"></a>
+**Internationally Based Government**
+
+- [Italian Department of Civil Protection](https://github.com/pcm-dpc/COVID-19) - Presidency of the Council of Ministers - Department of Civil Protection situation monitoring data repository.
+
 
 <a name="academic"></a>
 ## Academic Research
@@ -30,17 +42,6 @@ A curated list of COVID-19 (2019-nCoV) data repositories across different source
 
 <a name="intl-based-academia"></a>
 **Internationally Based Academia**
-
-<a name="government"></a>
-## Academic Research
-
-<a name="us-based-govt"></a>
-**US Based Government**
-
-<a name="intl-based-govt"></a>
-**Internationally Based Government**
-
-- [Italian Department of Civil Protection](https://github.com/pcm-dpc/COVID-19) - Presidency of the Council of Ministers - Department of Civil Protection situation monitoring data repository.
 
 
 <a name="news"></a>
