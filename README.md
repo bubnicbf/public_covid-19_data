@@ -29,7 +29,9 @@ A curated list of COVID-19 (2019-nCoV) data repositories across different source
 <a name="intl-based-govt"></a>
 **Internationally Based Government**
 
-- [Italian Department of Civil Protection](https://github.com/pcm-dpc/COVID-19) - Presidency of the Council of Ministers - Department of Civil Protection situation monitoring data repository.
+- [Italian Department of Civil Protection](https://github.com/pcm-dpc/COVID-19) - Presidency of the Council of Ministers, Department of Civil Protection situation monitoring data repository.
+
+- [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) - The downloadable data file (xlsx) is updated daily and contains the latest available public data on COVID-19. You may use the data in line with ECDC’s copyright policy.
 
 
 <a name="academic"></a>
