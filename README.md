@@ -10,8 +10,11 @@ A curated list of COVID-19 (2019-nCoV) data repositories across different source
 <!-- MarkdownTOC depth=4 -->
 
 - [Academic Research](#academic)
-    - [US Based](#us-based)
-    - [Internationally Based](#intl-based)
+    - [US Based](#us-based-academia)
+    - [Internationally Based](#intl-based-academia)
+- [Government](#government)
+    - [US Based](#us-based-govt)
+    - [Internationally Based](#intl-basedgovt)
 - [News Organizations](#news)
 
 
@@ -20,13 +23,25 @@ A curated list of COVID-19 (2019-nCoV) data repositories across different source
 <a name="academic"></a>
 ## Academic Research
 
-<a name="us-based"></a>
-**US Based**
+<a name="us-based-academia"></a>
+**US Based Academia**
 
 - [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) - Data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE).
 
-<a name="intl-based"></a>
-**Internationally Based**
+<a name="intl-based-academia"></a>
+**Internationally Based Academia**
+
+<a name="government"></a>
+## Academic Research
+
+<a name="us-based-govt"></a>
+**US Based Government**
+
+<a name="intl-based-govt"></a>
+**Internationally Based Government**
+
+- [Italian Department of Civil Protection](https://github.com/pcm-dpc/COVID-19) - Presidency of the Council of Ministers - Department of Civil Protection situation monitoring data repository.
+
 
 <a name="news"></a>
 ## News Organizations
