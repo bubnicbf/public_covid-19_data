@@ -17,7 +17,7 @@ Add new sources yourself with a **pull request**.
 - [Academic Research](#academic)
     - [US Based](#us-based-academia)
     - [Internationally Based](#intl-based-academia)
-- [News Organizations](#news)
+- [Independent/News Organizations](#news)
 
 
 <!-- /MarkdownTOC -->
@@ -52,7 +52,10 @@ Add new sources yourself with a **pull request**.
 
 
 <a name="news"></a>
-## News Organizations
+## Independent/News Organizations
+- [Avi Schiffmann](https://ncov2019.live/) - Dashboard for web crawler app with sources from Local government websites/health departments, BNO News, CDC, WHO
+
 - [New York Times](https://github.com/nytimes/covid-19-data) - An ongoing repository of data on coronavirus cases and deaths in the U.S.
+
 
 
