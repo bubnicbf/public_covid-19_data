@@ -55,6 +55,8 @@ Add new sources yourself with a **pull request**.
 ## Independent/News Organizations
 - [Avi Schiffmann](https://ncov2019.live/) - Dashboard for web crawler app with sources from Local government websites/health departments, BNO News, CDC, WHO
 
+- [Allen Institute for AI](https://ncov2019.live/) - COVID-19 Open Research Dataset (CORD-19), a free resource of over 47,000 scholarly articles, including over 36,000 with full text, about COVID-19 and the coronavirus family of viruses for use by the global research community
+
 - [New York Times](https://github.com/nytimes/covid-19-data) - An ongoing repository of data on coronavirus cases and deaths in the U.S.
 
 
